@@ -3,6 +3,8 @@
 ## Overview
 Data science and machine learning are very much applicable in such huge and various fields. One of them is retail business. Imagine if you are a retail business owner who owns a retail shop that sells hundreds of items. In a single month, there are more than a hundred transactions occurring in your shop, for instance. Each transaction is usually made with more than an item to be bought. It means there are usually more than an item in a single transaction.
 
+**Codelabs Report Link:** https://codelabs-preview.appspot.com/?file_id=1VQ5vytQq5Jt9ZrE-Gy3NCV3zN8MX0Pq5mishS0GTDDo#0
+
 Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.
 
 ## Goals
