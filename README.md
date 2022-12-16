@@ -16,7 +16,7 @@ Goal is to create an interface with an interactive dashboard, along with recomme
 - The main objective of market basket analysis is to identify products that customers may want to purchase
 - Market basket analysis enables sales and marketing teams to develop more effective product placement, pricing, cross-sell, and up-sell strategies
 
-### About the data
+## About the data
 - [Online Retail Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
 - It is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 - Features:
@@ -30,7 +30,7 @@ Goal is to create an interface with an interactive dashboard, along with recomme
   - **Country**: Country name. Nominal, the name of the country where each customer 
 
 ## Streamlit
-
+![Fig-1](https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG)
 ## References
 - https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
 - https://archive.ics.uci.edu/ml/datasets/online+retail
