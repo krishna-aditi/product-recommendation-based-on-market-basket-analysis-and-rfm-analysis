@@ -31,6 +31,15 @@ Goal is to create an interface with an interactive dashboard, along with recomme
 
 ## Streamlit
 <img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-2.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-3.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-4.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-5.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-6.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-7.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-8.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-9.PNG" height = "400" width="600">
+<img src="https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-10.PNG" height = "400" width="600">
 
 ## References
 - https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
