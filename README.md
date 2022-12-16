@@ -30,7 +30,7 @@ Goal is to create an interface with an interactive dashboard, along with recomme
   - **Country**: Country name. Nominal, the name of the country where each customer 
 
 ## Streamlit
-![Fig-1](https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG)
+![Fig-1](https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG = 250x250)
 ## References
 - https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
 - https://archive.ics.uci.edu/ml/datasets/online+retail
