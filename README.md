@@ -30,7 +30,6 @@ Goal is to create an interface with an interactive dashboard, along with recomme
   - **Country**: Country name. Nominal, the name of the country where each customer 
 
 ## Streamlit
-![Fig-1](= 250x250)
 <img src="[https://github.com/favicon.ico](https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis/blob/main/report_imgs/page-1.PNG )" height ='48'width="48">
 
 ## References
